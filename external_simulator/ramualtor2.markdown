@@ -3,7 +3,7 @@ layout: page
 title: Ramulator2
 parent: External Simulator
 nav_order: 3
-permalink: /external_simualtor/ramulator2
+permalink: /external_simulator/ramulator2
 ---
 
 <details open markdown="block">
