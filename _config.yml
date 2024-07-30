@@ -1,10 +1,11 @@
 title: gem5
 email: mainpower4309@gmail.com
-permalink: /docs_gem5
+permalink: /docs-gem5
 
 # Build settings
 #theme: "just-the-docs" # for local
 remote_theme: pmarsceill/just-the-docs # for github
+color_scheme: dark
 
 # Callout definition
 callouts:
